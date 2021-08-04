@@ -1,12 +1,17 @@
 import './App.css';
+import Dictonary from "./Dictionary";
 
 function App() {
   return (
     <div className="App">
+      <div className="container">
       <header className="App-header">
-        <h1>Hello</h1>
-        
+        <Dictonary />
       </header>
+      <footer>
+        Coded by LittleVan
+      </footer>
+      </div>
     </div>
   );
 }
