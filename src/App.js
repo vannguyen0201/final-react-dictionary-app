@@ -9,7 +9,7 @@ function App() {
         <Dictonary defaultWord="love"/>
       </main>
       <footer>
-        Coded by LittleVan
+        👩🏻‍💻 Coded by <a href="https://www.linkedin.com/in/lvng/" target="_blank" rel="noreferrer">LittleVan</a> and <a href="https://github.com/vannguyen0201/final-react-dictionary-app" target="_blank" rel="noreferrer">Open-sourced on GitHub</a> 👩🏻‍🎓
       </footer>
       </div>
     </div>

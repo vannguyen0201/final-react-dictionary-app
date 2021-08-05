@@ -1,0 +1,15 @@
+.photos img {
+    border-radius: 5px;
+    margin-bottom: 20px;
+    transition: all 200mx ease-in-out;
+}
+
+.photos img:hover {
+    opacity: 0.8;
+}
+
+@media (max-width: 576px) {
+    .photos img {
+    margin-bottom: 5px;
+    }
+}
